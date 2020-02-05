@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: cadetblue;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section {
+    background-color: blue; 
+    width: 800px;
+    height: 600px;
+    text-align: center;    
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
